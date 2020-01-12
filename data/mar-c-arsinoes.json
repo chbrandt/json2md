@@ -1,0 +1,57 @@
+
+{
+    "figure": "./document/PM-MAR-C-Arsinoes_01_frt00008233_07_if164s_trr3_FEM.browse.png",
+    "reference": "https://wiki.planmap.eu/display/public/D4.2-public",
+    "table": {
+        "field": [
+            "Map name (PM_ID)",
+            "Target body",
+            "Title of map",
+            "Bounding box - Min Lat",
+            "Bounding box - Max Lat",
+            "Bounding box - Min Lon (0-360)",
+            "Bounding box - Max Lon (0-360)",
+            "Author(s)",
+            "Type",
+            "Output scale",
+            "Original Coordinate Reference System",
+            "Data used",
+            "Standards adhered to",
+            "DOI",
+            "Aims (one sentence)",
+            "Short description",
+            "Related products (cross link to other Planmap products)",
+            "Units Definition",
+            "Stratigraphic info (e.g. production function used)",
+            "Other comments (reviewer comments, notes on post-processing)",
+            "Heritage used",
+            "Link to other repositories",
+            "Acknowledgements beyond Planmap"
+        ],
+        "description": [
+            "PM-MAR-C-Arsinoes_01",
+            "Mars",
+            "Hydrated minerals in Arsinoes Chaos",
+            -8.17,
+            -7.98,
+            331.53,
+            331.758,
+            "Erica Luzzi",
+            "Preliminary",
+            "",
+            "",
+            "CRISM",
+            "",
+            "",
+            "Mineralogical analysis",
+            "VNIR and SWIR spectral parameters + true color representation",
+            "",
+            "",
+            "",
+            "",
+            "Viviano-Beck et al. 2014",
+            "",
+            ""
+        ]
+    }
+}

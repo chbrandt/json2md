@@ -1,0 +1,34 @@
+{
+  "figure_path": {
+    "key": {
+      "json": "figure",
+      "md": null
+    }
+  },
+  "wiki-reference": {
+    "key": {
+      "json": "reference",
+      "md": "D4.2"
+    }
+  },
+  "table": {
+    "key": {
+      "json": "table",
+      "md": null
+    },
+    "properties": {
+      "field": {
+        "key": {
+          "json": "field",
+          "md": "Field"
+        }
+      },
+      "description": {
+        "key": {
+          "json": "description",
+          "md": "Description"
+        }
+      }
+    }
+  }
+}

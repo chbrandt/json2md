@@ -1,0 +1,57 @@
+
+{
+    "figure": "./document/PM-MAR-MS-Crommelin_01.browse.png =800x*",
+    "reference": "",
+    "table": {
+        "field": [
+            "Map name (PM_ID)",
+            "Target body",
+            "Title of map",
+            "Bounding box - Min Lat",
+            "Bounding box - Max Lat",
+            "Bounding box - Min Lon (0-360)",
+            "Bounding box - Max Lon (0-360)",
+            "Author(s)",
+            "Type",
+            "Output scale",
+            "Original Coordinate Reference System",
+            "Data used",
+            "Standards adhered to",
+            "DOI",
+            "Aims (one sentence)",
+            "Short description",
+            "Related products (cross link to other Planmap products)",
+            "Units Definition",
+            "Stratigraphic info (e.g. production function used)",
+            "Other comments (reviewer comments, notes on post-processing)",
+            "Heritage used",
+            "Link to other repositories",
+            "Acknowledgements beyond Planmap"
+        ],
+        "description": [
+            "PM-MAR-MS-Crommelin_01",
+            "Mars",
+            "Geological Map of the Crommelin Crater, Mars",
+            "3d58'11.74\"N",
+            "6d13'39.41\"N",
+            "11d 9' 8.27\"W ",
+            "d 0'42.45\"W",
+            "D. Pesce, R. Pozzobon, M. Massironi",
+            "Preliminary",
+            "1:160.000",
+            "Projected Coordinate System: Equirectangular Projection: Plate_Carree false_easting: 0.00000000 false_northing: 0.00000000 central_meridian: 0.00000000 Linear Unit: Meter Geographic Coordinate System: GCS_Geographic_Coordinate_System Datum: D_MARS Prime Meridian: Reference Meridian Angular Unit: Degree",
+            "MOLA Elevation Model MEGDR (463 m/pixel)HRSC stereo DTM (100 m)CTX images (6 m/pixel)CTX DTM (18 m)HiRISE RED (0,25 m/pixel)MOC NASDP (1.5 – 6 m/pixel)",
+            "Mapping scale: Tobler (1987), Planmap mapping standards document",
+            "",
+            "Morpho-stratigraphic mapping",
+            "This 1:160.000 scale map by Pesce et al. covers the rim and interior of Crommelin crater (Figure 6), an approximately 110 km diameter in western Arabia Terra (PM-MAR-MS-Crommelin_01). It is of special interest  because of the prominent bulging and the well–exposed stratigraphic sequence in its interior made essentially by ELD (equatorial layered deposits). It appears that aeolian erosion has exposed cross-sections through layered units making possible to clearly identify the stratigraphic sequence of the crater infilling units. Indeed, this crater presents a wide variety of geologic-morphologic units, going from a basaltic plateau sequence to layered sequences (where fluid activity was hypothesised, Franchi et al., 2014), impact craters and their ejecta blanket are also visible as well as aeolian-related morphologies (both erosional and depositional) such as mesas, yardangs, dune fields and dust devil tracks.",
+            "",
+            "Aeolian deposits, AD- Very dark toned, AD1, 78-78-78- Mid dark toned, AD2, 104-104-104Secondary craters related material, SC- Radial material, SC1, 0-168-132- Rim material, SC2, 102-205-171- Crater floor, SC3, 68-137-112Layered deposits units, LD- Thick layers, low albedo, LD1, 115-38-0- Thin layers, mid albedo, LD2, 137-68-68Crater Bulge units, CB- Irregularly layered, CB1, 235-179-102- Fibrous/pitted, CB2, 245-202-122- Rugged, mesa forming, CB3, 255-241-161Rim Related Material, RM- Eroded, yardang forming, RM1, 204-204-255- Bumpy, mid to low albedo, RM2, 68-101-137- Bumpy, high albedo, RM3, 102-153-205Surrounding Plains, ST, 214-196-191",
+            "N/A",
+            "",
+            "N/A",
+            "",
+            "N/A"
+        ]
+    }
+}
