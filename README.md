@@ -1,5 +1,25 @@
 # json2md
 JSON to Markdown Translation Task
 
- - config.json contains the mapping rules between the json markdown
- - convert.py validates one of the json metadata files in /data and creates a new file README.md with the corresponding metadata. Validation schema is inside convert.py.
+### Installation
+Clone the repository
+```shell
+git clone https://github.com/mejdanid/json2md.git
+```
+
+Authenticate with the personal github account and change directory
+```shell
+Username for 'https://github.com': <USERNAME>
+Password for 'https://<username>@github.com': <PASSWORD>
+cd json2md
+```
+
+Run the script to convert json format metadata to markdown format. Path of json file is passed as argument
+```shell
+python convert.py ./data/mar-c-arsinoes.json
+```
+
+### Information
+ - config.json contains the mapping rules between the json and markdown metadata
+ - convert.py validates the json metadata file and creates a new file README.md with the corresponding metadata in the 
+ same directory as the json file. Validation schema is inside convert.py.

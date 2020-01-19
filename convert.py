@@ -86,18 +86,21 @@ Materials related to [{ref_md}]({json_metadata[ref_json]})
     with open(md_file_path, 'w') as md_fp:
         md_fp.write(md_template)
 
-    print("README.md file created!")
+    print(f"{md_file_path} file created!")
     print('### Conversion Successful ###')
 
 
 if __name__ == '__main__':
+
+    if len(sys.argv) < 2:
+        raise RuntimeError("Path of JSON metadata missing")
 
     # config file; json to md mapping
     with open("config.json") as cfg_fp:
         cfg = json.load(cfg_fp)
 
     # metadata in json format
-    json_fp = "./data/mar-c-arsinoes.json"
+    json_fp = sys.argv[1]
 
     validate_json(json_fp, cfg)
     convert_to_md(json_fp, cfg)
