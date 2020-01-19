@@ -9,8 +9,6 @@ git clone https://github.com/mejdanid/json2md.git
 
 Authenticate with the personal github account and change directory
 ```shell
-Username for 'https://github.com': <USERNAME>
-Password for 'https://<username>@github.com': <PASSWORD>
 cd json2md
 ```
 
